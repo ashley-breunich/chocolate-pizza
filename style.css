@@ -18,6 +18,7 @@ nav {
 nav img {
     float: left;
     margin-right: 8px;
+
 }
 
 #titlename {
@@ -34,4 +35,11 @@ nav img {
 
 #allicons ul li {
     float: right;
+}
+
+/* MAIN CONTENT */
+
+main {
+    width: 960px;
+    margin: auto;
 }
