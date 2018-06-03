@@ -109,6 +109,43 @@ h1 {
     margin-bottom: 30px;
 }
 
+/* RECIPE */
+
+#ingredients img {
+    width: 100%;
+}
+
+fieldset {
+    float: left;
+    width: 330px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 17px;
+    letter-spacing: .3px;
+    line-height: 28px;
+}
+
+fieldset:first-of-type {
+    margin-left: 60px;
+    margin-top: -240px;
+}
+
+.check {
+    display: block;
+    position: relative;
+}
+
+
+.crossed {
+    display: block;
+    position: relative;
+    text-decoration: line-through;
+}
+
+input {
+    margin-right: 10px;
+    opacity: .6;
+  }
+
 /* ABOUT THE AUTHOR */
 
 .clear img {
