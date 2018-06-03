@@ -8,7 +8,7 @@
 /* HEADER */
 header {
     background-color: #fff;
-    height: 70px;
+    height: 35px;
     margin-top: 40px;
 }
 
@@ -70,13 +70,15 @@ hr {
     width: 100%;
     background-color: #D3D3D3;
     height: 10px;
-    margin-bottom: 60px;
     border: none;
+    margin-top: 35px;
+    margin-bottom: 20px;
 }
 
 h1 {
     font-size: 30px;
     font-weight: 600;
+    margin-top: 40px;
 }
 
 .metadata {
@@ -85,7 +87,6 @@ h1 {
     font-size: 9px;
     text-transform: uppercase;
     letter-spacing: .5px;
-    margin-top: 6px;
 }
 
 #print {
@@ -165,6 +166,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
+    border: 1px #fff;
 }
 
 #footer-text p {
